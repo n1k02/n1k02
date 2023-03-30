@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://cdna.artstation.com/p/assets/images/images/028/419/378/original/koen-leung-comp.gif?1594410959" align="center" style="width: 100%" />
+<img src=https://github.com/n1k02/n1k02/blob/main/assets/koen-leung-comp.gif align="center" width=600 />
 </div>  
   
 
@@ -75,11 +75,17 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/n1k02" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
 <a href="https://instagram.com/_n1k_02_" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>  
+<a href="https://t.me/n1k_02" target="_blank">
+  <img src=https://img.shields.io/badge/telegram-%2324292e.svg?&style=for-the-badge&logo=telegram&logoColor=white alt=telegram style="margin-bottom: 5px;" />
+</a>  
+<a href="mailto:ghostwarriorn@gmail.com" target="_blank">
+  <img src=https://img.shields.io/badge/gmail-%23000000.svg?&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
+</a>  
+<a href="https://steamcommunity.com/id/nik02/" target="_blank">
+  <img src=https://img.shields.io/badge/steam-%2324292e.svg?&style=for-the-badge&logo=steam&logoColor=white alt=steam style="margin-bottom: 5px;" />
 </a>  
 </div>  
   
@@ -88,20 +94,13 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=n1k02&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=n1k02&show_icons=true&count_private=true&hide_border=true" align="center" width="400"/></div>  
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=n1k02&hide_border=true&layout=compact" align="center" /></div>  
-
-<br/>  
-
-
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=n1k02&hide_border=true&layout=compact" align="center" width="400"/></div>  
 
 <br/>  
 
+## Spotify
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=k7poc65i1qcnqoowbekwek5ov&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true" /></div>  
 
 <br/>  
@@ -113,12 +112,3 @@ If things goes well, this section should automatically be replaced by a list of 
 
 <br/>  
 
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
