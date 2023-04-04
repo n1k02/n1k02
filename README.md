@@ -1,5 +1,5 @@
 <div align="center">
-<img src=https://github.com/n1k02/n1k02/blob/main/assets/koen-leung-comp.gif align="center" width=600 />
+<img src=https://i.pinimg.com/originals/26/64/80/26648025f26e55cb0cfcc4795425fab5.gif align="center" width=600 />
 </div>  
   
 
