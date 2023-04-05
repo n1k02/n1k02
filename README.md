@@ -100,9 +100,10 @@
 
 <br/>  
 
+<!--
 ## Spotify
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=k7poc65i1qcnqoowbekwek5ov&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true" /></div>  
-
+-->
 <br/>  
 
 <div align="center">
