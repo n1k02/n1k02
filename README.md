@@ -9,7 +9,7 @@
 - 🔭 I’m interested in web-dev  
   
 
-- 🌱 I’m currently learning ThreeJS and English (B2)  
+- 🌱 I’m currently learning React-Three-Fiber and English (B2)  
   
 
 <br/>  
