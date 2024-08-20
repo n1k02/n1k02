@@ -10,9 +10,6 @@
 - 🔭 I am interested in all kinds of development
   
 
-- 🌱 I’m currently learning Flutter & Oracle BI
-  
-
 <br/>  
 
 
